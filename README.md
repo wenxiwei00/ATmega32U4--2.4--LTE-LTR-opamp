@@ -6,4 +6,5 @@
 ![image](https://github.com/wenxiwei00/ATmega32U4--2.4--LTE-LTR-opamp/assets/114196821/13fb5f96-c026-43ef-a3b2-c037b380d44f)  
 
 ### 最终效果  
-拿发射端对准接收端去照：当给发射端25赫兹方波时候红灯亮，220hz时候蓝灯亮，662hz绿灯亮。
+拿发射端对准接收端去照：当给发射端25赫兹方波时候红灯亮，220hz时候蓝灯亮，662hz绿灯亮。  
+https://youtube.com/shorts/6ind60bPfPM?feature=share
