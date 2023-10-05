@@ -7,4 +7,5 @@
 
 ### 最终效果  
 拿发射端对准接收端去照：当给发射端25赫兹方波时候红灯亮，220hz时候蓝灯亮，662hz绿灯亮。  
-https://youtube.com/shorts/6ind60bPfPM?feature=share
+https://youtube.com/shorts/6ind60bPfPM?feature=share  
+
